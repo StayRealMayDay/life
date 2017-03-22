@@ -1,2 +1,2 @@
 # life
-user center supports OAuth
+User management system for open service via OAuth
